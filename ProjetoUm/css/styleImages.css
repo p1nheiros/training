@@ -1,12 +1,29 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+body {
+    margin-top: 2rem;
+    margin-right: 3rem;
+    margin-left: 3rem;
+}
+
+.voltar {
+    font-size: 1.3rem;
+}
+
 .imageBox {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  text-align: center;
-  gap: 5rem;
+    margin-top: 10rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    gap: 5rem;
 }
 
 p img {
-  width: 17rem;
-  height: 17rem;
+    width: 17rem;
+    height: 17rem;
 }

@@ -4,7 +4,12 @@
     font-family: sans-serif;
 }
 
-.imageOne {
-    width: 100px;
-    height: 100px;
-  }
+body {
+    margin-top: 2rem;
+    margin-right: 3rem;
+    margin-left: 3rem;
+}
+
+.voltar {
+    font-size: 1.3rem;
+}
