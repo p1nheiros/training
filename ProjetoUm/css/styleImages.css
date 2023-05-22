@@ -1,0 +1,12 @@
+.imageBox {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  gap: 5rem;
+}
+
+p img {
+  width: 17rem;
+  height: 17rem;
+}
